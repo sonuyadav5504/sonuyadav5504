@@ -3,8 +3,9 @@
 <h1 align="center"> 👋 Hi, I’m Sonu Yadav  </h1>
 <h2 align="center">AI Researcher @ Honda R&D Innovation Lab, Tokyo</h2>
 
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="4px">
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="4px">
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="4px">
+</p>
 
 ## 💼 What I Do & My Journey  
 
@@ -50,7 +51,7 @@
   <a href="https://www.instagram.com/sonuyadav5504" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
   </a>
-  <a href="https://medium.com/@sonuyadav5504" target="_blank">
+  <a href="https://medium.com/@s4sonumonuasu" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium"/>
   </a>
 </p>
