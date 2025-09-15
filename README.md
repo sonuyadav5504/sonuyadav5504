@@ -4,8 +4,7 @@
 **AI Researcher @ Honda R&D Innovation Lab, Tokyo** | M.Tech in **AI**, IIT Delhi  
 🏆 GATE 2023 (CS) – AIR 460
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 💼 What I Do & My Journey  
@@ -57,6 +56,6 @@
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ✨ *“Keep learning, keep building, and keep inspiring.”*  
