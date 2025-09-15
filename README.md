@@ -1,8 +1,8 @@
 <!-- 🌟 Sonu Yadav’s GitHub Profile README -->
 
 # 👋 Hi, I’m **Sonu Yadav**  
-**AI Researcher @ Honda R&D Japan** | M.Tech in **Artificial Intelligence & Data Science**, IIT Delhi  
-🏆 GATE 2023 (CS) – AIR 460 (~99.4 percentile)
+**AI Researcher @ Honda R&D Innovation Lab, Tokyo** | M.Tech in **AI**, IIT Delhi  
+🏆 GATE 2023 (CS) – AIR 460
 
 ---
 
@@ -11,9 +11,9 @@
 ## 💼 What I Do & My Journey  
 
 - 🎓 Completed M.Tech from **IIT Delhi** specializing in **Artificial Intelligence & Data Science**.  
-- 💼 Currently working as **AI Researcher at Honda R&D, Japan**, focusing on intelligent systems & applied AI.  
+- 💼 Currently working as **AI Researcher at Honda R&D, Japan**, focusing on interation System and Grounding Navigable Region.  
 - 🏫 Mentor & educator: I share career direction, AI/ML roadmaps, and GATE strategies through talks & YouTube.  
-- 💡 Passionate about **ROS 2, WebSocket robotics communication, NLP, and Graph Neural Networks**.  
+- 💡 Passionate about **VLMs, NLP, CV, etc..**.  
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -21,10 +21,10 @@
 
 | Area | Technologies / Skills |
 |------|-------------------------|
-| **Programming** | Python, C++, Java |
-| **ML / DL** | PyTorch, TensorFlow, Keras, Scikit-learn |
-| **Data & Tools** | Pandas, NumPy, MySQL, MongoDB |
-| **Web / Visualization** | React, Node.js, Tailwind, Streamlit, Flask, Matplotlib |
+| **Programming** | Python, C++, c |
+| **ML / DL** | PyTorch, Scikit-learn |
+| **Data & Tools** | Pandas, NumPy, MySQL |
+| **Web / Visualization** | Streamlit, Matplotlib |
 | **Dev Tools** | Git, GitHub, VSCode, Jupyter Notebooks |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -43,17 +43,11 @@
   <a href="https://www.linkedin.com/in/sonuyadav5504" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/sonuyadav5504" target="_blank">
-    <img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png" alt="GitHub"/>
-  </a>
   <a href="https://www.youtube.com/channel/UCRTPQpHlb5kf2Tiy0mITL-A" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/>
   </a>
   <a href="https://leetcode.com/sonuyadav5504" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
-  </a>
-  <a href="https://www.kaggle.com/sonuyadaviitd" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/kaggle.png" alt="Kaggle"/>
   </a>
   <a href="https://www.instagram.com/sonuyadav5504" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
