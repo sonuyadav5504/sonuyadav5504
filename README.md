@@ -1,15 +1,8 @@
 <!-- 🌟 Sonu Yadav’s GitHub Profile README -->
 
-<p align="center">
-  <img src="https://i.imgur.com/CYkz8NI.gif" width="600" alt="banner"/>
-</p>
-
 <h1 align="center"> 👋 Hi, I’m Sonu Yadav  </h1>
 <h3 align="center">AI Researcher @ Honda R&D Innovation Lab, Tokyo</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
-</p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
 
 ## 💼 What I Do & My Journey  
