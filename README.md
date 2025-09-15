@@ -1,8 +1,7 @@
 <!-- 🌟 Sonu Yadav’s GitHub Profile README -->
 
-<h1 align="center"> 👋 Hi, I’m **Sonu Yadav**  </h1>
-<h1 align="center">**AI Researcher @ Honda R&D Innovation Lab, Tokyo** | M.Tech in **AI**, IIT Delhi  </h1>
-<h1 align="center">🏆 GATE 2023 (CS) – AIR 460</h1>
+<h1 align="center"> 👋 Hi, I’m Sonu Yadav  </h1>
+<h2 align="center">AI Researcher @ Honda R&D Innovation Lab, Tokyo</h2>
 
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="4px">
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="4px">
