@@ -1,11 +1,11 @@
 <!-- 🌟 Sonu Yadav’s GitHub Profile README -->
 
-# 👋 Hi, I’m **Sonu Yadav**  
-**AI Researcher @ Honda R&D Innovation Lab, Tokyo** | M.Tech in **AI**, IIT Delhi  
-🏆 GATE 2023 (CS) – AIR 460
+<h1 align="center"> 👋 Hi, I’m **Sonu Yadav**  </h1>
+<h1 align="center">**AI Researcher @ Honda R&D Innovation Lab, Tokyo** | M.Tech in **AI**, IIT Delhi  </h1>
+<h1 align="center">🏆 GATE 2023 (CS) – AIR 460</h1>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="4px">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="4px">
 
 ## 💼 What I Do & My Journey  
 
@@ -14,7 +14,7 @@
 - 🏫 Mentor & educator: I share career direction, AI/ML roadmaps, and GATE strategies through talks & YouTube.  
 - 💡 Passionate about **VLMs, NLP, CV, etc..**.  
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="4px">
 
 ## 🛠️ My Toolbox  
 
@@ -26,7 +26,7 @@
 | **Web / Visualization** | Streamlit, Matplotlib |
 | **Dev Tools** | Git, GitHub, VSCode, Jupyter Notebooks |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="4px">
 
 ## 📊 GitHub Stats  
 
@@ -34,7 +34,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sonuyadav5504&theme=dark&hide_border=true)](https://git.io/streak-stats)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonuyadav5504&layout=compact&theme=tokyonight)  
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="4px">
 
 ## 🚀 Connect With Me  
 
@@ -56,6 +56,6 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" height="4px">
 
 ✨ *“Keep learning, keep building, and keep inspiring.”*  
