@@ -36,19 +36,23 @@
 
 ## 🚀 Connect With Me  
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/sonuyadav5504" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
+  
   <a href="https://www.youtube.com/channel/UCRTPQpHlb5kf2Tiy0mITL-A" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/>
   </a>
+  
   <a href="https://leetcode.com/sonuyadav5504" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
   </a>
+  
   <a href="https://www.instagram.com/sonuyadav5504" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
   </a>
+  
   <a href="https://medium.com/@s4sonumonuasu" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium"/>
   </a>
